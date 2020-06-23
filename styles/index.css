@@ -112,3 +112,9 @@ a{
     font-weight: bold;
     text-align: center;
 }
+
+footer {
+    background-color: #000;
+    color:#fff;
+    font-size:14px;
+}
